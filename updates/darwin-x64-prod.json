@@ -1,7 +1,7 @@
 {
   "darwin-x64-prod": {
-    "update": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/darwin-x64-prod-1.3.114/release.json",
-    "install": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/darwin-x64-prod-1.3.114/francerp.launcher-1.3.114.dmg",
-    "version": "1.3.114"
+    "update": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/darwin-x64-prod-1.3.115/release.json",
+    "install": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/darwin-x64-prod-1.3.115/francerp.launcher-1.3.115.dmg",
+    "version": "1.3.115"
   }
 }
