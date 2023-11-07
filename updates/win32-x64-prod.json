@@ -1,0 +1,7 @@
+{
+  "win32-x64-prod": {
+    "update": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/win32-x64-prod-1.3.114",
+    "install": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/win32-x64-prod-1.3.114/francerp.launcher.Setup.1.3.114.exe",
+    "version": "1.3.114"
+  }
+}
