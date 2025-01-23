@@ -3,6 +3,6 @@
     "update": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/linux-x64-prod-1.4.2/francerp.launcher-1.4.2.AppImage",
     "install": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/linux-x64-prod-1.4.2/francerp.launcher-1.4.2.AppImage",
     "version": "1.4.2",
-    "sha256": "225e698356d6d1b212f4bd141d92a2ee2e77c8c1aa49e68a9920616c0e9ba48f"
+    "sha256": "51dacc68b991eb928fa6c6235faa212ecaa25ecd0ac40a42fa9dec84e7ed0af7"
   }
 }
