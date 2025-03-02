@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/linux-x64-prod-1.4.3/francerp.launcher-1.4.3.AppImage",
-    "install": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/linux-x64-prod-1.4.3/francerp.launcher-1.4.3.AppImage",
-    "version": "1.4.3",
-    "sha256": "806a58742eb79762b31a7952ca4017e84b283f9d67eaa5ccc2b9997695bce200"
+    "update": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/linux-x64-prod-1.4.4/francerp.launcher-1.4.4.AppImage",
+    "install": "https://github.com/FranceRP-Minecraft/Launcher-Public/releases/download/linux-x64-prod-1.4.4/francerp.launcher-1.4.4.AppImage",
+    "version": "1.4.4",
+    "sha256": "96fa1eeb88e511124126e09a0dcfdddb829376274c7628f434f0ae5e6524075b"
   }
 }
